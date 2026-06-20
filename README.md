@@ -58,8 +58,42 @@ Retail-Sales-Performance-Analysis/
 
 └── README.md
 
+# Retail Sales Performance Analysis
+
+## Overview
+
+## Objectives
+
+## Tools & Technologies
+
+## Data Cleaning
+
+## Key Insights
+
+## Machine Learning
+
+## Project Structure
+
+## Project Visualizations
+
+### Sales by Category
+![Sales by Category](visuals/Sales%20by%20Category.png)
+
+### Sales by Region
+![Sales by Region](visuals/Sales%20by%20Region.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](visuals/Monthly%20Sales%20Trend.png)
+
+### Top 10 Products
+![Top Products](visuals/Top%2010%20Products.png)
+
+### Machine Learning Prediction
+![ML Prediction](visuals/ML%20Prediction.png)
+
 ## Author
 
 Likhith Bangera
 
 Aspiring Data Analyst
+
